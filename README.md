@@ -1,5 +1,6 @@
 # School-Registration-Management-System
 
+The main objective of the School Registration System is to manage the details of Students,Schools, Registrations, Classes. It manages all the information about Students, Classes, Students. The project is totally built at administrative end and thus only the administrator is guaranteed the access.
 
 
 ## Technology 
