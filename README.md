@@ -1,5 +1,26 @@
 # School-Registration-Management-System
 
+
+
+## Technology 
+
+> Front End
+
+- Html
+- Css
+- Javascript
+- Jquery
+- Bootstrap 4
+
+> Back End
+
+- Php 7
+
+> Database
+- Mysql (sql)
+
+<br>
+
 ## Features
 
 
@@ -22,12 +43,28 @@
   - Edit Class
   - Delete Class 
 
+- Registration 
+  - Manage Registration 
+  - Edit Details
+  - Cancle Registration
+  - Confirm Addmission
+
+- Addmission
+  - Manage Addmission
+  - Edit Student Details
+  - Cancle Addmission
+       
+
+
+
 > Student
 
 - Authentication with JWT 
   - Register 
 
 
+<br>
+<br>
 
 ![Screenshot from 2021-05-30 11-38-31](https://user-images.githubusercontent.com/62344675/120094369-957b8c80-c13d-11eb-828d-0ce74a9a9d75.png)
 
