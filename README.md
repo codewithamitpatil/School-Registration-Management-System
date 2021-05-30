@@ -1,5 +1,32 @@
 # School-Registration-Management-System
 
+## Features
+
+
+> Admin 
+
+- Authentication with JWT 
+  - Login 
+  - Logout
+  - Reset Password
+
+- Dashboard
+  - Listed Registrations
+  - Listed Class
+  - Listed Addmission
+
+
+- Class
+  - Create Class
+  - Manage Class
+  - Edit Class
+  - Delete Class 
+
+> Student
+
+- Authentication with JWT 
+  - Register 
+
 
 
 ![Screenshot from 2021-05-30 11-38-31](https://user-images.githubusercontent.com/62344675/120094369-957b8c80-c13d-11eb-828d-0ce74a9a9d75.png)
